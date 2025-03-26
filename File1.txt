@@ -1,0 +1,5 @@
+change from conflict branch
+ HEAD
+change from main branch
+change2 from conflict branch
+conflictbranch
